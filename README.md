@@ -1,4 +1,4 @@
-**WP assignment - 1 :- 
+WP assignment - 1 :- 
 
 1.	Use frames such that page is divided into 3 frames 20% on left to show contents of pages, 60% in center to show body of page, remaining on right to show remarks.
 
